@@ -31,6 +31,6 @@ Cartoonish
 ![tigerballoon](https://github.com/Nezkull/IGME230-WebDev/blob/master/tigerballoon.png?raw=true "Enemy")
 
 # H2 About the developer
-Nick Marano
-2nd year Game Design and Development
+Nick Marano.
+2nd year Game Design and Development.
 I am able to use Maya, Photoshop, Blender, and Illustrator.
