@@ -18,11 +18,11 @@ You are stuck in a nightmare fending off tiger balloon animals for your life.
 Cartoonish
 
 # H3 Sounds
-- Ambient
+Ambient
  - The game will have a dark sinister circus audio playing in the background.
 
 # H2 Controls
-- Keyboard:
+Keyboard:
  - WASD
  - arrows
  - ESC for pause
@@ -31,4 +31,6 @@ Cartoonish
 ![tigerballoon](https://github.com/Nezkull/IGME230-WebDev/blob/master/tigerballoon.png?raw=true "Enemy")
 
 # H2 About the developer
-Nick Marano. -2nd year Game Design and Development. -I am able to use Maya, Photoshop, Blender, and Illustrator.
+Nick Marano.--
+2nd year Game Design and Development. --
+I am able to use Maya, Photoshop, Blender, and Illustrator.
