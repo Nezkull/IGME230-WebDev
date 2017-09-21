@@ -1,4 +1,4 @@
-# H1 Escape From R.T.T
+# H1 Escape From R.I.T
 
 # H2 High Concept
 It's doom original meets creepy R.I.T tiger ballon animals.
@@ -31,6 +31,4 @@ Cartoonish
 ![tigerballoon](https://github.com/Nezkull/IGME230-WebDev/blob/master/tigerballoon.png?raw=true "Enemy")
 
 # H2 About the developer
-Nick Marano.
-2nd year Game Design and Development.
-I am able to use Maya, Photoshop, Blender, and Illustrator.
+Nick Marano. -2nd year Game Design and Development. -I am able to use Maya, Photoshop, Blender, and Illustrator.
