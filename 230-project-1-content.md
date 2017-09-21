@@ -1,27 +1,36 @@
 # H1 Escape From R.T.T
 
 # H2 High Concept
- It's doom original meets creepy R.I.T tiger ballon animals.
+It's doom original meets creepy R.I.T tiger ballon animals.
 
 # H2 Genre
-2) Psychological shooter
+Psychological horror shooter
 
 # H2 Platform
-3) PC
+Web for PC.
 
 # H2 Story
-4) You are stuck in a nightmare fending off tiger balloon animals for your life.
+You are stuck in a nightmare fending off tiger balloon animals for your life.
+ - R.I.T campus locations.
 
 # H2 Aesthetics
-5) 
+# H3 Graphics
+Cartoonish
 
-# H2 Gameplay
-6)
+# H3 Sounds
+- Ambient
+ - The game will have a dark sinister circus audio playing in the background.
+
+# H2 Controls
+- Keyboard:
+ - WASD
+ - arrows
+ - ESC for pause
 
 # H2 Screenshots
-7) 
-
-# H2 Other
-8)
+![tigerballoon](https://github.com/tigerballoon.png "Image 1")
 
 # H2 About the developer
+Nick Marano
+2nd year Game Design and Development
+I am able to use Maya, Photoshop, Blender, and Illustrator.
