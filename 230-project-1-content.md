@@ -28,7 +28,7 @@ Cartoonish
  - ESC for pause
 
 # H2 Screenshots
-![tigerballoon](https://github.com/tigerballoon.png "Image 1")
+![tigerballoon](https://github.com/Nezkull/IGME230-WebDev/blob/master/tigerballoon.png?raw=true)
 
 # H2 About the developer
 Nick Marano
