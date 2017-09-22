@@ -10,7 +10,7 @@ Psychological horror shooter
 Web for PC.
 
 # H2 Story
-You are stuck in a nightmare fending off tiger balloon animals for your life.
+You are stuck in a nightmare fending off tiger balloon animals. Will you survive and wake up, or will you be devoured by the squeaky menace. Will you run and hide or stand and fight the choice is yours.
  - R.I.T campus locations.
 
 # H2 Aesthetics
